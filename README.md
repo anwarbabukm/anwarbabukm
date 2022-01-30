@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anwar Babu
+- 👋 Hi, I’m Anwar Babu, working as Data Scientist for a leading retail group in Dubai.
 - 👀 I’m interested in AI, Data Science, Machine Learning and Data Analytics.
 - 🌱 I’m currently learning more into MLOps and Data Engineering
 - 💞️ I’m looking to collaborate on Deep Learning based projects either using computer vision or NLP
